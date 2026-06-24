@@ -1,0 +1,15 @@
+# Secretos y configuraciones locales
+.env
+
+# Entornos virtuales de python
+venv/
+env/
+.venv/
+
+#Archivos cacheados y compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Volumen de la base de datos local 
+data/
